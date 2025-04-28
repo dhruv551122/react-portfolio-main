@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Hotel Booking Site",
+    "imageSrc": "projects/hotelBooking.png",
+    "description": "Built a responsive hotel booking website frontend with dynamic search, hotel listings, and user-friendly design using modern web technologies",
+    "skills": ["React", "clerk"],
+    "demo": "https://quick-stay-frontend.vercel.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weatherApp.png",
+    "description": "A simple weather app that shows real-time weather for your city or current location.",
+    "skills": ["HTML", "css", "javascript"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
