@@ -105,7 +105,19 @@
     flex-direction: column-reverse;
   }
 
+  .title {
+    font-size: 63px;
+    margin-top: 20px;
+  }
+
+  .description {
+    font-size: 25px;
+  }
+
   .content {
     align-items: center;
+  }
+  .contactBtn {
+    font-size: 25px;
   }
 }
