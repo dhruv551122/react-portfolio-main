@@ -5,14 +5,14 @@
     "description": "Built a responsive hotel booking website frontend with dynamic search, hotel listings, and user-friendly design using modern web technologies",
     "skills": ["React", "clerk"],
     "demo": "https://quick-stay-frontend.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/dhruv551122/QuickStay-Frontend"
   },
   {
     "title": "Weather App",
     "imageSrc": "projects/weatherApp.png",
     "description": "A simple weather app that shows real-time weather for your city or current location.",
     "skills": ["HTML", "css", "javascript"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://weather-app-rho-seven-13.vercel.app/",
+    "source": "https://github.com/dhruv551122/weather-app"
   }
 ]
